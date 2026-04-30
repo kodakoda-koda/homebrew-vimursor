@@ -1,6 +1,6 @@
 cask "vimursor" do
-  version "1.0.2"
-  sha256 "4dd125fd80cc668ae4d53d8e4182ec26fbb72dcea6289cb2be2b95a2bf1ea5ac"
+  version "1.1.0"
+  sha256 "c47e52b6f5b1c4c1d8f61a6acc08e6e2111f354850cd2f25e3c53998f8843531"
 
   url "https://github.com/kodakoda-koda/Vimursor/releases/download/v#{version}/Vimursor.dmg"
   name "Vimursor"
